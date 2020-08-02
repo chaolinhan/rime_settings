@@ -1,0 +1,19 @@
+# Rime user dictionary
+#@/db_name	easy_en.userdb
+#@/db_type	userdb
+#@/rime_version	1.3.2
+#@/tick	13
+#@/user_id	2488dab6-35e1-46fa-a642-3badcfe375a3
+black 	black	c=1 d=0.960789 t=13
+business 	business	c=1 d=1 t=13
+class 	class	c=1 d=0.946485 t=13
+classification 	classification	c=1 d=0.97531 t=13
+code 	code	c=1 d=0.99005 t=13
+from 	from	c=1 d=0.955997 t=13
+label 	label	c=1 d=0.980199 t=13
+only 	only	c=1 d=0.951229 t=13
+pattern 	pattern	c=1 d=0.970446 t=13
+python 	Python	c=1 d=0.941765 t=13
+text 	text	c=1 d=0.965605 t=13
+three 	three	c=1 d=0.985112 t=13
+type 	type	c=1 d=0.995012 t=13
