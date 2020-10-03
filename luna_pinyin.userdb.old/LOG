@@ -1,0 +1,6 @@
+2020/09/25-14:16:55.728080 0x70000fb34000 Log #2481: 4 ops saved to Table #2483 OK
+2020/09/25-14:16:55.728883 0x70000fb34000 Archiving /Users/chaolinhan/Library/Rime/luna_pinyin.userdb/002481.log: OK
+2020/09/25-14:16:55.732891 0x70000fb34000 Table #2482: 16903 entries OK
+2020/09/25-14:16:55.732982 0x70000fb34000 Table #2483: 4 entries OK
+2020/09/25-14:16:55.733346 0x70000fb34000 Archiving /Users/chaolinhan/Library/Rime/luna_pinyin.userdb/MANIFEST-002479: OK
+2020/09/25-14:16:55.789487 0x70000fb34000 **** Repaired leveldb /Users/chaolinhan/Library/Rime/luna_pinyin.userdb; recovered 2 files; 733574 bytes. Some data may have been lost. ****
